@@ -1,6 +1,21 @@
-# 杭州教育 (Hangzhou Edu)
+<p align="center">
+  <img src="assets/icon/icon.png" width="112" alt="杭州教育 Logo"/>
+</p>
 
-一个专注杭州教育的 Flutter App：按行政区、按学段浏览学校，标注重点学校，支持简介、评论、点赞、收藏分组、学校对比、地图定位与按区中考升学数据。
+<h1 align="center">杭州教育 · Hangzhou Edu</h1>
+
+<p align="center">
+  一个专注杭州教育的 Flutter App<br/>
+  按行政区 / 学段浏览学校 · 重点学校标注 · 评论点赞 · 收藏分组 · 学校对比 · 地图定位 · 按区中考升学数据
+</p>
+
+<p align="center">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white"/>
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-Android%20%7C%20Web%20%7C%20macOS-43A047"/>
+</p>
+
+---
 
 ## 功能
 
